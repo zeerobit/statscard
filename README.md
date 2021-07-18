@@ -13,9 +13,9 @@
 
 ### Screenshot
 
-![](/Coding course/WebDev Projects/stats-preview-card-component-main/screenshots/mobile-view.png)
+/Coding course/WebDev Projects/stats-preview-card-component-main/screenshots/mobile-view.png
 
-![](/Coding course/WebDev Projects/stats-preview-card-component-main/screenshots/desktop-view.png)
+/Coding course/WebDev Projects/stats-preview-card-component-main/screenshots/desktop-view.png
 
 
 ### Links
