@@ -15,7 +15,7 @@
 
 /Coding course/WebDev Projects/stats-preview-card-component-main/screenshots/mobile-view.png
 
-/Coding course/WebDev Projects/stats-preview-card-component-main/screenshots/desktop-view.png
+https://github.com/zeerobit/statscard/blob/main/screenshots/desktop-view.png
 
 
 ### Links
