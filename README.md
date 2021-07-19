@@ -29,7 +29,11 @@
 
 ![](/Coding course/WebDev Projects/stats-preview-card-component-main/screenshots/mobile-view.png)
 
+<<<<<<< HEAD
 ![](/Coding course/WebDev Projects/stats-preview-card-component-main/screenshots/desktop-view.png)
+=======
+https://github.com/zeerobit/statscard/blob/main/screenshots/desktop-view.png
+>>>>>>> 2bb5d44560a163027d8fd1d29eb9607b108e6973
 
 
 ### Links
