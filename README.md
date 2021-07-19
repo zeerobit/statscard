@@ -34,8 +34,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/responsive-design-using-flexbox-started-with-mobile-design-first-HPlVGCgLN
+- Live Site URL: https://zeerobit.github.io/statscard/
 
 ## My process
 
