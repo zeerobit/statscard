@@ -181,7 +181,7 @@ body{
         flex-basis: 100%;
         max-width: 320px;
         min-height: 265px;
-        background: url(/images/image-header-desktop.jpg) center/contain no-repeat;
+        background: url(![image-header-desktop](https://user-images.githubusercontent.com/49578782/126107086-a954a526-7fc6-4080-a216-54ea7ee006b8.jpg)) center/contain no-repeat;
         border-top-left-radius: 0;
         border-bottom-right-radius: 5px;
         order: 2;
