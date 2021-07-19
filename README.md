@@ -27,9 +27,9 @@
 
 ### Screenshot
 
-![](/Coding course/WebDev Projects/stats-preview-card-component-main/screenshots/mobile-view.png)
+![desktop-view](https://user-images.githubusercontent.com/49578782/126101393-8052ecea-d8f5-4d3e-bc5c-36cc164f93b8.png)
 
-![](/Coding course/WebDev Projects/stats-preview-card-component-main/screenshots/desktop-view.png)
+![mobile-view](https://user-images.githubusercontent.com/49578782/126101447-b438587d-3866-4fe9-b2de-0ab74a9ec486.png)
 
 
 ### Links
