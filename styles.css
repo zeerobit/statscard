@@ -163,7 +163,7 @@ body{
     text-decoration: none;
 }
 
-@media (min-width: 200px) {
+@media (max-width: 1440px) {
     .container {
         display: flex;
         flex-direction: row;
