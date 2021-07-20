@@ -244,6 +244,7 @@ body{
     .stats {
         display: flex;
         flex-direction: row;
+        margin-left: 0.2rem;
     }
 
     
@@ -251,8 +252,6 @@ body{
         text-align: center;
         color: hsl(0, 0%, 100%);
         font-family: inter, sans-serif;
-        font-weight: 700;
-        padding: 0.2rem;
         margin-right: 2.3rem;
         text-align: left;
     }
