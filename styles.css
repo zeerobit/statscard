@@ -218,7 +218,11 @@ body{
        padding-right: 4.1rem;
        text-align: left;
        padding-bottom: 0;
+       font-size: 1.5rem;
     }
 
+    .stats_item {
+        font-size: 0.78rem;
+    }
 
 }
