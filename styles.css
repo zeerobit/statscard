@@ -174,8 +174,15 @@ body{
     color: var(--soft-violet)
 }
 
+@media only screen and (max-width: 22.5rem){
+    .container {
+        padding: 5rem 0;
+    }
+}
 
-@media (min-width: 56.25rem){
+
+
+@media only screen and (min-width: 56.25rem){
     .container {
         display: flex;
         flex-direction: row-reverse;
